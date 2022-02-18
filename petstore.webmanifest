@@ -1,0 +1,15 @@
+{
+    "name":"My Petstore PWA",
+    "short_name":"petstore",
+    "description":"my online store",
+    "icons":[
+        {
+            "src":"images/icon-store-512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "start_url":"week3.html",
+    "display":"fullscreen",
+    "background_color":"#B12A34"
+}
